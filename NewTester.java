@@ -4,6 +4,6 @@ import org.junit.*;
 public class NewTester{
     @Test 
     public void test_add_two_ints(){
-        assertEquals(3, New.add_two_ints(1, 1));
+        assertEquals(3, New.add_two_ints(2, 1));
     }
 }
